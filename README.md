@@ -20,9 +20,12 @@
 ![image4](https://i.imgur.com/fyiYVrV.jpg)
 
 **ROUND 2 (setting up Mr.Woof)**
+
 * Download Mr.Woof by [clicking here]()
+* 
 ![image5](https://i.imgur.com/I8Rd5n4.png)
 
+* When installing [Mr.Woof](https://drive.google.com/file/d/1iR8BdTB3XtaJ2Bp8t3PulWyMJkcNGIIO/view?usp=sharing). you might find it say that it is virus. it is not virus. i assure you. the reason it says it is vius is because the app is not in playstore. so google detectes anything outside playstore as unwanted app
 * Open Mr.woof app and go through the instructions that pop up
 * Congrats now you can spend your time doing other important stuff than watching ads for your 6 alt accounts
 * Need help? contact me on discord @ RedScorpion#5785
