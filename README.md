@@ -1,10 +1,9 @@
 **This [**bot**](https://github.com/capRS/mrwoof/) is brought to you by [**RedScorpion**](https://www.youtube.com/channel/UCldtxjrCMtRHJzCUuA8b3kw), check this [**Video**](https://www.youtube.com/watch?v=g7m6EBFWzKM) to see a visual tutorials contact me on discord RedScorpion#5785**
 
-**HOW TO INSTALL AND PREPARE**
-
 **ROUND 1 (setting up AutoInput)**
 * Download Autoinput from [Playstore](https://play.google.com/store/apps/details?id=com.joaomgcd.autoinput) or by [clicking here!](https://drive.google.com/file/d/1nraHmTzsEQM1nddiqRwO9AR-6jYJKxbV/view?usp=sharing)
 * Open the app once you install
+* Big Warning. Don't Close AutoInput. Incase You Close It. Unisntall and Install again (super very important)
 
 ![image1](https://i.imgur.com/l3oY7cW.png)
 
@@ -20,11 +19,10 @@
 
 ![image4](https://i.imgur.com/fyiYVrV.jpg)
 
-**ROUND 2 (setting up Mr,Woof)**
+**ROUND 2 (setting up Mr.Woof)**
 * Download Mr.Woof by [clicking here]()
 ![image5](https://i.imgur.com/I8Rd5n4.png)
 
-# ![image5]()
-# ![image6]()
-# ![image7]()
-# ![image8]()
+* Open Mr.woof app and go through the instructions that pop up
+* Congrats now you can spend your time doing other important stuff than watching ads for your 6 alt accounts
+* Need help? contact me on discord @ RedScorpion#5785
