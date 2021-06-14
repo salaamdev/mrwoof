@@ -2,20 +2,29 @@
 
 **HOW TO INSTALL AND PREPARE**
 
-**STEP 1 (setting up Auto Input)**
-* Download [Autoinput](https://play.google.com/store/apps/details?id=com.joaomgcd.autoinput) from Playstore
+**ROUND 1 (setting up AutoInput)**
+* Download Autoinput from [Playstore](https://play.google.com/store/apps/details?id=com.joaomgcd.autoinput) or by [clicking here!](https://drive.google.com/file/d/1nraHmTzsEQM1nddiqRwO9AR-6jYJKxbV/view?usp=sharing)
 * Open the app once you install
-![image1](https://i.imgur.com/3cqJ4wl.png)
-![image2](https://i.imgur.com/UpjZ8IQ.png)
+
+![image1](https://i.imgur.com/l3oY7cW.png)
+
 * Click on recents then lock Autoinput (important step)
 * This prevents the phone from killing this app when in use
-![image3](https://i.imgur.com/Yp5XzyJ.png)
-![image4](https://i.imgur.com/joBTbv8.jpg)
+
+![image2](https://i.imgur.com/vkSNXIg.png)
+![image3](https://i.imgur.com/joBTbv8.jpg)
+
 * Go back to Autoinput app and click ```use for free```
 * This gives you 24 hours of free usage for this app
 * Enable accessibility service as well (important step)
-![image5](https://i.imgur.com/fyiYVrV.jpg)
+
+![image4](https://i.imgur.com/fyiYVrV.jpg)
+
+**ROUND 2 (setting up Mr,Woof)**
+* Download Mr.Woof by [clicking here]()
+![image5](https://i.imgur.com/I8Rd5n4.png)
+
+# ![image5]()
+# ![image6]()
 # ![image7]()
 # ![image8]()
-# ![image9]()
-# ![image10]()
