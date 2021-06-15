@@ -1,7 +1,7 @@
 **This [**bot**](https://github.com/capRS/mrwoof/) is brought to you by [**RedScorpion**](https://www.youtube.com/channel/UCldtxjrCMtRHJzCUuA8b3kw), check this [**Video**](https://www.youtube.com/watch?v=g7m6EBFWzKM) to see a visual tutorials contact me on discord RedScorpion#5785**
 
 **ROUND 1 (setting up AutoInput)**
-* Download Autoinput from [Playstore](https://play.google.com/store/apps/details?id=com.joaomgcd.autoinput) or by [clicking here!](https://drive.google.com/file/d/1nraHmTzsEQM1nddiqRwO9AR-6jYJKxbV/view?usp=sharing)
+* Download Autoinput from [Playstore](https://play.google.com/store/apps/details?id=com.joaomgcd.autoinput) or by [clicking here!](https://drive.google.com/file/d/1nraHmTzsEQM1nddiqRwO9AR-6jYJKxbV/view)
 * Open the app once you install
 * Big Warning. Don't Close AutoInput. Incase You Close It. Unisntall and Install again (super very important)
 
@@ -25,7 +25,7 @@
 * 
 ![image5](https://i.imgur.com/I8Rd5n4.png)
 
-* When installing [Mr.Woof](https://drive.google.com/file/d/1iR8BdTB3XtaJ2Bp8t3PulWyMJkcNGIIO/view?usp=sharing). you might find it say that it is virus. it is not virus. i assure you. the reason it says it is vius is because the app is not in playstore. so google detectes anything outside playstore as unwanted app
+* When installing [Mr.Woof](https://drive.google.com/file/d/1iR8BdTB3XtaJ2Bp8t3PulWyMJkcNGIIO/view). you might find it say that it is virus. it is not virus. i assure you. the reason it says it is vius is because the app is not in playstore. so google detectes anything outside playstore as unwanted app
 * Open Mr.woof app and go through the instructions that pop up
 * Congrats now you can spend your time doing other important stuff than watching ads for your 6 alt accounts
 * Need help? contact me on discord @ RedScorpion#5785
