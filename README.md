@@ -1,4 +1,4 @@
-**This [**bot**](https://github.com/capRS/mrwoof/) is brought to you by [**RedScorpion**](https://www.youtube.com/channel/UCldtxjrCMtRHJzCUuA8b3kw), check this [**Video**](https://www.youtube.com/watch?v=g7m6EBFWzKM) to see a visual tutorials contact me on discord RedScorpion#5785**
+**This [**bot**](https://github.com/capRS/mrwoof/) is brought to you by [**RedScorpion**](https://www.youtube.com/channel/UCldtxjrCMtRHJzCUuA8b3kw), check this [**Video**](https://www.youtube.com/watch?v=4-IALU373j0&t) to see a visual tutorials contact me on discord RedScorpion#5785**
 
 **ROUND 1 (setting up AutoInput)**
 * Download Autoinput from [Playstore](https://play.google.com/store/apps/details?id=com.joaomgcd.autoinput) or by [clicking here!](https://drive.google.com/file/d/1nraHmTzsEQM1nddiqRwO9AR-6jYJKxbV/view)
